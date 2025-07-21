@@ -28,7 +28,7 @@ void main() {
   print('Q6: Original List: $fruits');
   print('Q6: Reversed List: $reversed');
 
-  // Q.7: use 15 methods of Lists except retainwhere, removewhere.
+  // Q.7: use 15 methods of List except retainwhere, removewhere.
   List colors = ['Red', 'Green', 'Blue'];
   print('\nQ7 Original: $colors');
 
